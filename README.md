@@ -15,6 +15,7 @@ Class Definition:
 You will need to implement a class EmergencyRoom with the following methods:
 
 class EmergencyRoom {
+
     // Admit a new patient to the ER
     public void admitPatient(String name, int priority);
 
